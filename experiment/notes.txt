@@ -1,0 +1,17 @@
+ML:
+    1) Training -> Pipeline
+    2) Validation/testing/inference -> Pipeline
+
+
+    1) MODEL TRAINING:
+        a) DATA
+        b) DATA VALIDATION (EDA)
+        c) FEATURE ENGINEERING
+        d) MODEL TRAINING
+        e) MODEL EVALUATION
+    
+    2) TESTING/PREDICTION/INFERENCING PIPELINE - SINGLE AND BULK:
+        a) DATA
+        b) DATA VALIDATION
+        c) FEATURE ENGINEERING
+        d) MODEL EVALUATION
